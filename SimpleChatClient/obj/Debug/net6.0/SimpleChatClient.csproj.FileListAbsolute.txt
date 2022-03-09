@@ -1,0 +1,15 @@
+G:\repos\Unity\OGP\SimpleChatClient\bin\Debug\net6.0\SimpleChatClient.exe
+G:\repos\Unity\OGP\SimpleChatClient\bin\Debug\net6.0\SimpleChatClient.deps.json
+G:\repos\Unity\OGP\SimpleChatClient\bin\Debug\net6.0\SimpleChatClient.runtimeconfig.json
+G:\repos\Unity\OGP\SimpleChatClient\bin\Debug\net6.0\SimpleChatClient.dll
+G:\repos\Unity\OGP\SimpleChatClient\bin\Debug\net6.0\ref\SimpleChatClient.dll
+G:\repos\Unity\OGP\SimpleChatClient\bin\Debug\net6.0\SimpleChatClient.pdb
+G:\repos\Unity\OGP\SimpleChatClient\obj\Debug\net6.0\SimpleChatClient.csproj.AssemblyReference.cache
+G:\repos\Unity\OGP\SimpleChatClient\obj\Debug\net6.0\SimpleChatClient.GeneratedMSBuildEditorConfig.editorconfig
+G:\repos\Unity\OGP\SimpleChatClient\obj\Debug\net6.0\SimpleChatClient.AssemblyInfoInputs.cache
+G:\repos\Unity\OGP\SimpleChatClient\obj\Debug\net6.0\SimpleChatClient.AssemblyInfo.cs
+G:\repos\Unity\OGP\SimpleChatClient\obj\Debug\net6.0\SimpleChatClient.csproj.CoreCompileInputs.cache
+G:\repos\Unity\OGP\SimpleChatClient\obj\Debug\net6.0\SimpleChatClient.dll
+G:\repos\Unity\OGP\SimpleChatClient\obj\Debug\net6.0\ref\SimpleChatClient.dll
+G:\repos\Unity\OGP\SimpleChatClient\obj\Debug\net6.0\SimpleChatClient.pdb
+G:\repos\Unity\OGP\SimpleChatClient\obj\Debug\net6.0\SimpleChatClient.genruntimeconfig.cache
